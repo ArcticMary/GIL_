@@ -1,0 +1,12 @@
+Ticker;Quantity;Price;Action
+1;10;10000;buy
+1;12;5000;buy
+1;5;100000;buy
+1;27;40000;sell
+2;5;5000;buy
+2;6;6000;buy
+2;11;5500;sell
+3;5;100000;buy
+3;5;50000;buy
+3;5;3000;buy
+3;15;80000;sell
