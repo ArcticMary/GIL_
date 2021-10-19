@@ -1,0 +1,7 @@
+Date;Ticker;Quantity;Price;Action
+1;123;100;800;buy
+1;233;200;700;buy
+1;333;300;600;sell
+1;123;50;820;sell
+1;233;200;695;sell
+1;123;30;900;sell
